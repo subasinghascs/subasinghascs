@@ -1,4 +1,4 @@
-### Hi! I' Chamara 👋
+### Hi! I'm Chamara 👋
 
 <!--
 **subasinghascs/subasinghascs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
