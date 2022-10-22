@@ -1,9 +1,6 @@
 # <div align="center">Hello👋 I am Chamara Sudarshana Subasingha</div>  
   
 
-<img src="https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt10ad437430d4a9cf/61bcf3d8670bc637d59bb63e/softwaredev_tippapatt-AdobeStock2.jpg" align="left" height="300" width="600" />  
-  
-
 - 👨‍🎓 I’m currently studding at Faculty of Information Technology-University of Moratuwa👨‍🎓  
   
 
